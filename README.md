@@ -1,5 +1,5 @@
 # OAQ-Open-Air-Quality-Sampler-
-The is project OAQ, An Open Source Air Quality Sampler designed to work as an everyday carry gadget for measuring Particulate Matter, VOCs, Temperature, Humidity and effectively the Air Quality Index. 
+This is project OAQ, An Open Source Air Quality Sampler designed to work as an everyday carry gadget for measuring Particulate Matter, VOCs, Temperature, Humidity and effectively the Air Quality Index. 
 
 OAQ works with almost all particulate matter sensors, simply select the firmware for sensor of your choise and 3d print associated sensor holder. 
 
