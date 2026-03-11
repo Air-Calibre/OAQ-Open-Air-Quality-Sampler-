@@ -4,30 +4,27 @@
 
 * **Project OAQ** is an **open-source air quality monitoring sampler** designed to make pollution sensing affordable and accessible.
 * Air pollution causes **~7 million deaths every year**.
-* The people most affected often **do not know the air quality around them**.
-* Particulate Matter (PM) is often called a **“silent killer”** because exposure usually happens without awareness.
+* The people most affected by Air Pollution are often **unaware about the air quality around them**.
+* Of all the pollutants present in our current date environments, particulate matter is the most dangerous.
+* Particulate Matter (PM) is often called a **“silent killer”** because exposure usually happens without awareness and over long durations, resulting into incapability in taking precautionatory action.
 
 ## The Problem
 
 * Accurate pollution measurement requires **dense sensor coverage**.
 * According to **WHO recommendations**:
 
-  * Minimum density: **1 sensor every 100 meters**
-* Current global deployment:
+  * Minimum density of Air quality sensors should be: **1 sensor every 100 meters**
+* However, Current global deployment is at:
 
   * ~**0.02 sensors per 100 meters**
-* This means we currently have roughly a **100× infrastructure deficit**.
+* This means we currently have roughly a **100× infrastructure deficit** for Air Quality monitoring.
 
-## The Idea
+## The Objectives of Project OAQ are :
 
-* Increase **local awareness of air pollution**.
+* Increase **awareness of air pollution**.
 * Make **air quality monitoring hardware accessible to everyone**.
 * Encourage **community driven environmental sensing**.
-* When people understand **local pollution levels**, real **mitigation actions follow**.
-
-## Goals of Project Good1
-
-* Build an **AQI monitoring device that anyone can assemble and use**.
+* When people understand **local pollution levels**,  **mitigation actions will follow**.
 
 Design principles:
 
