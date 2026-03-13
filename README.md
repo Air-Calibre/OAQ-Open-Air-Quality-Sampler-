@@ -76,7 +76,7 @@ Design principles:
 
 * Pollution awareness is the **first step to solving the problem**.
 * More sensors → **better local data** → **better decisions**.
-* By lowering the barrier to building AQI monitors, **Project Good1 aims to democratize air pollution sensing**.
+* By lowering the barrier to building AQI monitors, **Project OAQ Sampler aims to democratize air pollution sensing**.
 
 ## Project Vision
 
